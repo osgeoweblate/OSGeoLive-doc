@@ -14,6 +14,8 @@ cmake -DLOCALE=ON ..
 make locale
 popd
 
+# clean .tx/config
+head -4 .tx/config > tmp.out && mv tmp.out .tx/config
 # update .tx/config to add all the new/missing resources or fixing old resources naming
 sphinx-intl update-txconfig-resources --locale-dir locale --pot-dir locale/pot --transifex-project-name osgeolive
 perl -pi -e 's/\[osgeolive\./\[o:osgeo:p:osgeolive:r:/' .tx/config
@@ -30,8 +32,5 @@ scripts/remove_obsolete_entries.sh
 
 # Add the files, commit and push
 for line in `cat build/doc/locale_changes.txt`; do git add "$line"; done
-
-# Remove the unstaged changes
-git restore .
 
 popd
