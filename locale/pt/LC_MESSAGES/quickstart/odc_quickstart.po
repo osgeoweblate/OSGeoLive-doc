@@ -8,14 +8,16 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-08-17 15:05-0600\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-19 21:32+0000\n"
+"Last-Translator: Jorge Antunes <faginea@gmail.com>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"odc_quickstart/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../../build/doc/quickstart/odc_quickstart.rst:20
 msgid "Open Data Cube Quickstart"
@@ -39,7 +41,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/odc_quickstart.rst:33
 msgid "Contents"
-msgstr ""
+msgstr "Conteúdos"
 
 #: ../../build/doc/quickstart/odc_quickstart.rst:36
 msgid "Analyze a Base Map"
@@ -79,7 +81,7 @@ msgstr ""
 
 #: ../../build/doc/quickstart/odc_quickstart.rst:81
 msgid "What next?"
-msgstr ""
+msgstr "E agora?"
 
 #: ../../build/doc/quickstart/odc_quickstart.rst:83
 msgid "Documentation: https://datacube-core.readthedocs.io/en/stable/"
@@ -95,17 +97,17 @@ msgstr ""
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "nologo"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "Projecto OSGeo"
 
 #: ../../build/doc/<rst_epilog>:0
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "Comunidade OSGeo"

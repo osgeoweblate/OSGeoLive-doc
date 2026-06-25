@@ -8,77 +8,96 @@ msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-01-21 20:28+0000\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: Automatically generated\n"
-"Language-Team: none\n"
+"PO-Revision-Date: 2026-05-19 15:25+0000\n"
+"Last-Translator: Jorge Antunes <faginea@gmail.com>\n"
+"Language-Team: Portuguese <https://weblate.osgeo.org/projects/osgeolive/"
+"r_quickstart/pt/>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:18
 msgid "R Quickstart"
-msgstr ""
+msgstr "Inicio rápido de R"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:20
 msgid "R is a free software environment for statistical computing and graphics."
 msgstr ""
+"O R é um ambiente de software livre para computação estatística e gráficos."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:22
 msgid "This Quick Start describes how to:"
-msgstr ""
+msgstr "O Inicio Rápido descreve como:"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:24
 msgid "use R for simple arithmetic"
-msgstr ""
+msgstr "use o R para operações aritméticas simples"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:25
 msgid "load some data from a shapefile and map it"
-msgstr ""
+msgstr "carregue alguns dados de um ficheiro Shapefile e represente-os num mapa"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:26
 msgid "do a coordinate transformation"
-msgstr ""
+msgstr "faça uma transformação de coordenadas"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:27
 msgid "plot some data points on a map"
-msgstr ""
+msgstr "desenhar alguns dados de pontos num mapa"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:31
 msgid "Contents"
-msgstr ""
+msgstr "Conteúdos"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:34
 msgid "Start R"
-msgstr ""
+msgstr "Iniciar R"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:35
 msgid "R is essentially a command-line program, although graphical user interfaces are available. You type a line of code at the prompt, press return, and the R interpreter evaluates it and prints the result."
 msgstr ""
+"R é essencialmente um programa de linha de comandos, embora existam "
+"interfaces gráficas de utilizador disponíveis. Basta escrever uma linha de "
+"código no prompt, premir Enter, e o interpretador do R avalia-a e apresenta "
+"o resultado."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:40
 msgid "Don't fear the command line - it is a source of great power. Using the up and down arrows to recall commands so you can edit mistakes. Hit CTRL-C if get stuck and you should get the prompt back."
 msgstr ""
+"Não tenha medo da linha de comandos - ela é uma fonte de grande poder. Use "
+"as setas para cima e para baixo para recuperar comandos e corrigir erros. Se "
+"ficar bloqueado, prima CTRL-C e deverá recuperar o prompt."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:43
 msgid "Choose |menu_R Statistics|. A terminal window opens running R."
 msgstr ""
+"Selecione |menu_R Statistics|. Irá abrir-se uma janela de terminal com o R "
+"em execução."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:45
 msgid "You can start with simple arithmetic."
-msgstr ""
+msgstr "Pode começar com aritmética simples."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:62
 msgid "A full range of arithmetic, trigonometric, and statistical functions are built-in, and thousands more are available from packages in the `CRAN <https://cran.r-project.org/>`_ archive."
 msgstr ""
+"Está integrada uma gama completa de funções aritméticas, trigonométricas e "
+"estatísticas, e existem milhares de outras disponíveis nos pacotes do "
+"repositório `CRAN <https://cran.r-project.org/>`."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:66
 msgid "The main prompt in R is ``>``, but there is also the continuation prompt ``+``, which appears if R expects more input to make a valid expression. You'll see this if you forget a closing bracket or parenthesis."
 msgstr ""
+"O prompt principal no R é ``>``, mas existe também o prompt de continuação "
+"``+``, que aparece quando o R espera mais dados para formar uma expressão "
+"válida. Irá ver isto se esquecer de fechar um parêntesis curvo ou reto."
 
 #: ../../build/doc/quickstart/R_quickstart.rst:79
 msgid "Building data"
-msgstr ""
+msgstr "Construção de dados"
 
 #: ../../build/doc/quickstart/R_quickstart.rst:81
 msgid "You might be wondering what the mysterious 'one' in square brackets is doing in the output. This is telling you that the result is one number. R can store things in one-dimensional vectors, two-dimensional matrices, and multi-dimensional arrays. There are many functions that can generate these things. Here's a simple sequence:"
