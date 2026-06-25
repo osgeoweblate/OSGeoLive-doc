@@ -6,20 +6,21 @@
 # Translators:
 # Supaplex <bejokeup@gmail.com>, 2022
 #
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: OSGeoLive 17.0.0\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2023-02-15 20:42-0600\n"
-"PO-Revision-Date: 2017-09-20 16:05+0000\n"
-"Last-Translator: Supaplex <bejokeup@gmail.com>, 2022\n"
-"Language-Team: Chinese (https://app.transifex.com/osgeo/teams/66156/zh/)\n"
+"PO-Revision-Date: 2026-06-25 04:58+0000\n"
+"Last-Translator: Jietao Wang <quaternary@163.com>\n"
+"Language-Team: Chinese (Simplified Han script) <https://weblate.osgeo.org/"
+"projects/osgeolive/osm_quickstart/zh_Hans/>\n"
+"Language: zh_Hans\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language: zh\n"
 "Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 5.16.2\n"
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:21
 msgid "OpenStreetMap Quickstart"
@@ -50,7 +51,7 @@ msgstr "這個快速指南的提是介紹一些線上和線下軟體，怎麼編
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:40
 msgid "Contents"
-msgstr ""
+msgstr "内容"
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:43
 msgid "Programs that work with OSM data"
@@ -405,7 +406,7 @@ msgstr "這裡有快速指南：https://export.hotosm.org/en/v3/learn/quick_star
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:214
 msgid "What next?"
-msgstr "接下來呢？"
+msgstr "接下来呢？"
 
 #: ../../build/doc/quickstart/osm_quickstart.rst:216
 msgid "Find out more about OSM on the website: https://www.openstreetmap.org"
@@ -417,16 +418,16 @@ msgstr "尋求支援：https://www.openstreetmap.org/help"
 
 #: ../../build/doc/<rst_epilog>:13
 msgid "vmdk"
-msgstr ""
+msgstr "vmdk"
 
 #: ../../build/doc/<rst_epilog>:16
 msgid "nologo"
-msgstr ""
+msgstr "隐藏标志"
 
 #: ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Project"
-msgstr ""
+msgstr "OSGeo 项目"
 
 #: ../../build/doc/<rst_epilog>:0 ../../build/doc/<rst_epilog>:0
 msgid "OSGeo Community"
-msgstr ""
+msgstr "OSGeo 社区"
